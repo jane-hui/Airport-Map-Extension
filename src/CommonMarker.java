@@ -1,4 +1,4 @@
-package jane_assignment;
+
 
 
 import de.fhpotsdam.unfolding.geo.Location;
