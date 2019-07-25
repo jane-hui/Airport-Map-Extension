@@ -1,12 +1,16 @@
-# Project for Object Oriented Programming in Java 
-Coursera - Airport Map Extension
+# Airport Map Extension
 
-* In my program, it is able to display all the airports in the world as features. 
+[Project for Object Oriented Programming in Java]
 
-* The airports are displayed in three different colors, indicating three groups of altitude level. 
 
-* At the same time, when user hovers around the airport markers, it gets to display each airport's information (its name and altitude numeral value) at first line, and where it located (city and country) at second line. 
+* This program is able to display all the airports in the world. 
 
-* Furthermore, when user clicks on a single airport marker, it shows the selected airport marker (in white circle look) together with the routes which connect to other airports. 
+* Airports are displayed in three different colors, indicating three groups of altitude level. 
 
-* User can hover on other airports to know which airport it gets to fly to from the selected airport. Besides, user also able to zoom in the map to look into detail of the airports he interested.
+* At the same time, when a user hovers around the airport markers, it will display general information for individual airport (its name and altitude numeral value) at the first line, and its location (city and country) at the second line. 
+
+* Furthermore, when a user clicks on a single airport marker, it will show the selected airport marker in white circle look together with the routes which connected to other airports. 
+
+* A user can hover on other airports to know which destination airports can be reached by from the selected airport. Besides, the user is able to zoom in the map to look into the details of the airports.
+
+* Screenshots of the program can be found in [[Screenshots] Folder](https://github.com/janehui0820/Airport-Map-Extension/tree/master/%5BScreenshots%5D)
