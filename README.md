@@ -11,6 +11,6 @@
 
 * Furthermore, when a user clicks on a single airport marker, it will show the selected airport marker in white circle look together with the routes which connected to other airports. 
 
-* A user can hover on other airports to know which destination airports can be reached by from the selected airport. Besides, the user is able to zoom in the map to look into the details of the airports.
+* A user can hover on other airports to know which destination airport can be reached by from the selected airport. Besides, the user is able to zoom in the map to look into the details of the airport.
 
 * Screenshots of the program can be found in [[Screenshots] Folder](https://github.com/janehui0820/Airport-Map-Extension/tree/master/%5BScreenshots%5D)
